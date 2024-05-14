@@ -1,2 +1,2 @@
 console.log("config file");
-console.log("Version 1");
+console.log("Version 2 updated");
